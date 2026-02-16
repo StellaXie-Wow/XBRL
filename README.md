@@ -17,6 +17,6 @@ This repository contains an automated XULE-based extraction workflow for SEC BDC
 - The single sample URL has been replaced with a loop over BDC CIKs and filings.
 - Output files are stored in the local BASE_PATH directory.
 
-## Output Sample
+## Example Output Files
 <img width="1394" height="752" alt="image" src="https://github.com/user-attachments/assets/46ff6b3b-888a-415b-b921-83a31c02723d" />
 

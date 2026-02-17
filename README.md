@@ -20,6 +20,6 @@ This repository contains an automated XULE-based extraction workflow for SEC BDC
 ## Example Output Files
 
 - A sample output file has been uploaded for reference. Please refer to "sample_output" folder for "CIK17313_sample_output.xlsx"
-- When executed locally, the extracted files will be saved in the output folder (as illustrated in the screenshot).
+- When executed locally, the extracted files will be saved in the output folder (as illustrated in the screenshot below).
 <img width="1394" height="752" alt="image" src="https://github.com/user-attachments/assets/46ff6b3b-888a-415b-b921-83a31c02723d" />
 
